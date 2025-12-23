@@ -35,7 +35,7 @@
 一个小众的资源转载组织，不必在意的啦~ (・・)
       <img src="https://github.com/JACK-cp2c/Shen.Sheng.Qu.Xi.Open.source.app.repost/blob/43e7ae1b1600292a09256714d4f926b1eedb6e67/25150913hkws.png" width="200" />
 
-©Github.Shen.Sheng.Qu.Xi.Management.Committee.
+**©Github.Shen.Sheng.Qu.Xi.Management.Committee.**
 # 特别鸣谢
  大家点一个星标，就是已经对我大大的恩得了，**所以，快！去！点！星！标！ᕦ(ò_óˇ)ᕤ**
 
