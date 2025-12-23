@@ -33,7 +33,7 @@
 中央后方‖嬴忠：作用最大的喵~  ദ്ദി˶•̀֊•́)✧
 # 神圣秋曦©2020-2026
 一个小众的资源转载组织，不必在意的啦~ (・・)
-<img src="https://github.com/JACK-cp2c/Shen.Sheng.Qu.Xi.Open.source.app.repost/blob/43e7ae1b1600292a09256714d4f926b1eedb6e67/25150913hkws.png" width="200" />
+<img src="https://github.com/JACK-cp2c/Shen.Sheng.Qu.Xi.Open.source.app.repost/blob/43e7ae1b1600292a09256714d4f926b1eedb6e67/25150913hkws.png" width="150" />
 
 **©Github.Shen.Sheng.Qu.Xi.Management.Committee.**
 # 特别鸣谢
