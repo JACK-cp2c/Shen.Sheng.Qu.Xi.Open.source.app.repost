@@ -1,6 +1,6 @@
 # 神圣秋曦开源应用转载区
-![25150913hkws.png](https://github.com/JACK-cp2c/Shen.Sheng.Qu.Xi.Open.source.app.repost/blob/43e7ae1b1600292a09256714d4f926b1eedb6e67/25150913hkws.png)
-  
+![25150913hkws.png](https://github.com/JACK-cp2c/Shen.Sheng.Qu.Xi.Open.source.app.repost/blob/61b7aee437c3f56c81df0b38b2acc7c0a0f4ef95/2c3abf08-6c15-4ea0-9666-2a6f56194c4e.png)
+<img src="https://github.com/JACK-cp2c/Shen.Sheng.Qu.Xi.Open.source.app.repost/blob/61b7aee437c3f56c81df0b38b2acc7c0a0f4ef95/2c3abf08-6c15-4ea0-9666-2a6f56194c4e.png" width="300" />  
   𝓜𝓾 𝓢𝓱𝓮𝓷𝔁𝓲 𝓞𝓹𝓮𝓷 𝓢𝓸𝓾𝓻𝓬𝓮 𝓐𝓹𝓹𝓵𝓲𝓬𝓪𝓽𝓲𝓸𝓷 𝓡𝓮𝓹𝓻𝓲𝓷𝓽 𝓡𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝔂
   本应用仓库为一个开源应用为一个议题,所以如果想查找开源应用，请在议题区中查找,为了避免不必要的混乱，若要反馈情况，请前往讨论区发表自己理想的语述.若我们有侵权行为，可以联系删除，本应用仓库主旨是转载优质开源应用，并提供比较快的下载链接，请勿用于第三方恶搞收费，只能用于学习与实际用途喵~
 # 管理仓库的管理会
