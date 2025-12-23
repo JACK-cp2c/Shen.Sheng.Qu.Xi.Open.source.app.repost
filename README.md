@@ -32,7 +32,7 @@
 # 神圣秋曦©2020-2025
  一个小众的资源转载组织，不必在意的啦~ (o･･o)/
 
-©Github.Shen.Sheng.Qu.XiManagement.Committee.
+©Github.Shen.Sheng.Qu.Xi.Management.Committee.
 # 特别鸣谢
  大家点一个星标，就是已经对我大大的恩得了，所以，快！去！点！星！标！ᕦ(ò_óˇ)ᕤ
 
